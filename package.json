@@ -1,0 +1,27 @@
+{
+  "name": "root-sanctum",
+  "version": "1.0.0",
+  "description": "A comprehensive knowledge base - Your sanctuary for learning",
+  "author": "LandWarderer2772",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LandWarderer2772/root-sanctum"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "2.0.0-alpha.12"
+  },
+  "keywords": [
+    "knowledge-base",
+    "documentation",
+    "vitepress",
+    "learning",
+    "education",
+    "reference"
+  ]
+}
