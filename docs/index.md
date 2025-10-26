@@ -16,7 +16,7 @@ hero:
 features:
   - icon: 💻
     title: Technology
-    details: Programming, Web Development, AI & Machine Learning, Tools & Software
+    details: Programming, Web Development, AI, Data Science, Cybersecurity, Cloud, Hardware & Tools
     link: /technology/programming/
   - icon: 🔬
     title: Science
@@ -28,7 +28,7 @@ features:
     link: /humanities/history/
   - icon: 🎯
     title: Life Skills
-    details: Health & Wellness, Productivity, Communication, Finance
+    details: Health, Productivity, Communication, Finance, Career, Personal Development & Digital Literacy
     link: /life-skills/health/
   - icon: 🌍
     title: Miscellaneous
@@ -51,6 +51,10 @@ Explore the world of programming, web development, artificial intelligence, and 
 - [Programming](/technology/programming/) - Languages, algorithms, design patterns
 - [Web Development](/technology/web-dev/) - HTML, CSS, JavaScript, frameworks
 - [AI & Machine Learning](/technology/ai/) - ML basics, deep learning, NLP
+- [Data Science](/technology/data-science/) - Data analysis, statistics, visualization
+- [Cybersecurity](/technology/cybersecurity/) - Security fundamentals, ethical hacking
+- [Cloud Computing](/technology/cloud/) - AWS, Azure, serverless, containers
+- [Hardware](/technology/hardware/) - Components, networking, embedded systems
 - [Tools & Software](/technology/tools/) - Git, IDEs, DevOps tools
 
 #### 🔬 Science
@@ -76,6 +80,9 @@ Practical knowledge to improve your daily life, health, productivity, and person
 - [Productivity](/life-skills/productivity/) - Time management, goal setting
 - [Communication](/life-skills/communication/) - Speaking, writing, listening
 - [Finance](/life-skills/finance/) - Budgeting, investing, saving
+- [Career Development](/life-skills/career/) - Job search, interviews, networking
+- [Personal Development](/life-skills/personal-development/) - Self-improvement, emotional intelligence
+- [Digital Literacy](/life-skills/digital-literacy/) - Online safety, digital tools
 
 #### 🌍 Miscellaneous
 A collection of diverse topics from DIY projects to travel guides and fascinating facts.

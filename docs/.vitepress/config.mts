@@ -16,6 +16,10 @@ export default defineConfig({
           { text: 'Programming', link: '/technology/programming/' },
           { text: 'Web Development', link: '/technology/web-dev/' },
           { text: 'AI & Machine Learning', link: '/technology/ai/' },
+          { text: 'Data Science', link: '/technology/data-science/' },
+          { text: 'Cybersecurity', link: '/technology/cybersecurity/' },
+          { text: 'Cloud Computing', link: '/technology/cloud/' },
+          { text: 'Hardware', link: '/technology/hardware/' },
           { text: 'Tools & Software', link: '/technology/tools/' }
         ]
       },
@@ -43,7 +47,10 @@ export default defineConfig({
           { text: 'Health & Wellness', link: '/life-skills/health/' },
           { text: 'Productivity', link: '/life-skills/productivity/' },
           { text: 'Communication', link: '/life-skills/communication/' },
-          { text: 'Finance', link: '/life-skills/finance/' }
+          { text: 'Finance', link: '/life-skills/finance/' },
+          { text: 'Career Development', link: '/life-skills/career/' },
+          { text: 'Personal Development', link: '/life-skills/personal-development/' },
+          { text: 'Digital Literacy', link: '/life-skills/digital-literacy/' }
         ]
       },
       { 
@@ -107,6 +114,60 @@ export default defineConfig({
             { text: 'IDEs & Editors', link: '/technology/tools/ides' },
             { text: 'DevOps Tools', link: '/technology/tools/devops' },
             { text: 'Productivity Software', link: '/technology/tools/productivity' }
+          ]
+        }
+      ],
+      '/technology/hardware/': [
+        {
+          text: 'Hardware',
+          items: [
+            { text: 'Overview', link: '/technology/hardware/' },
+            { text: 'Computer Components', link: '/technology/hardware/components' },
+            { text: 'Networking Hardware', link: '/technology/hardware/networking' },
+            { text: 'Embedded Systems', link: '/technology/hardware/embedded' },
+            { text: 'Hardware Maintenance', link: '/technology/hardware/maintenance' }
+          ]
+        }
+      ],
+      '/technology/cybersecurity/': [
+        {
+          text: 'Cybersecurity',
+          items: [
+            { text: 'Overview', link: '/technology/cybersecurity/' },
+            { text: 'Security Fundamentals', link: '/technology/cybersecurity/fundamentals' },
+            { text: 'Network Security', link: '/technology/cybersecurity/network-security' },
+            { text: 'Application Security', link: '/technology/cybersecurity/app-security' },
+            { text: 'Cryptography', link: '/technology/cybersecurity/cryptography' },
+            { text: 'Ethical Hacking', link: '/technology/cybersecurity/ethical-hacking' },
+            { text: 'Security Best Practices', link: '/technology/cybersecurity/best-practices' }
+          ]
+        }
+      ],
+      '/technology/data-science/': [
+        {
+          text: 'Data Science',
+          items: [
+            { text: 'Overview', link: '/technology/data-science/' },
+            { text: 'Data Analysis', link: '/technology/data-science/data-analysis' },
+            { text: 'Statistics', link: '/technology/data-science/statistics' },
+            { text: 'Data Visualization', link: '/technology/data-science/visualization' },
+            { text: 'Big Data', link: '/technology/data-science/big-data' },
+            { text: 'Data Engineering', link: '/technology/data-science/data-engineering' },
+            { text: 'Tools & Libraries', link: '/technology/data-science/tools' }
+          ]
+        }
+      ],
+      '/technology/cloud/': [
+        {
+          text: 'Cloud Computing',
+          items: [
+            { text: 'Overview', link: '/technology/cloud/' },
+            { text: 'Cloud Fundamentals', link: '/technology/cloud/fundamentals' },
+            { text: 'Cloud Providers', link: '/technology/cloud/providers' },
+            { text: 'Cloud Architecture', link: '/technology/cloud/architecture' },
+            { text: 'Serverless Computing', link: '/technology/cloud/serverless' },
+            { text: 'Containers & Kubernetes', link: '/technology/cloud/containers' },
+            { text: 'Cloud Security', link: '/technology/cloud/security' }
           ]
         }
       ],
@@ -261,6 +322,48 @@ export default defineConfig({
             { text: 'Saving Strategies', link: '/life-skills/finance/saving' },
             { text: 'Credit & Debt', link: '/life-skills/finance/credit-debt' },
             { text: 'Tax Planning', link: '/life-skills/finance/taxes' }
+          ]
+        }
+      ],
+      '/life-skills/career/': [
+        {
+          text: 'Career Development',
+          items: [
+            { text: 'Overview', link: '/life-skills/career/' },
+            { text: 'Career Planning', link: '/life-skills/career/planning' },
+            { text: 'Resume & Cover Letters', link: '/life-skills/career/resume' },
+            { text: 'Interview Skills', link: '/life-skills/career/interviews' },
+            { text: 'Professional Networking', link: '/life-skills/career/networking' },
+            { text: 'Job Search Strategies', link: '/life-skills/career/job-search' },
+            { text: 'Professional Growth', link: '/life-skills/career/growth' }
+          ]
+        }
+      ],
+      '/life-skills/personal-development/': [
+        {
+          text: 'Personal Development',
+          items: [
+            { text: 'Overview', link: '/life-skills/personal-development/' },
+            { text: 'Self-Improvement', link: '/life-skills/personal-development/self-improvement' },
+            { text: 'Emotional Intelligence', link: '/life-skills/personal-development/emotional-intelligence' },
+            { text: 'Critical Thinking', link: '/life-skills/personal-development/critical-thinking' },
+            { text: 'Learning Strategies', link: '/life-skills/personal-development/learning' },
+            { text: 'Mindfulness', link: '/life-skills/personal-development/mindfulness' },
+            { text: 'Resilience', link: '/life-skills/personal-development/resilience' }
+          ]
+        }
+      ],
+      '/life-skills/digital-literacy/': [
+        {
+          text: 'Digital Literacy',
+          items: [
+            { text: 'Overview', link: '/life-skills/digital-literacy/' },
+            { text: 'Internet Basics', link: '/life-skills/digital-literacy/internet-basics' },
+            { text: 'Online Safety', link: '/life-skills/digital-literacy/online-safety' },
+            { text: 'Digital Tools', link: '/life-skills/digital-literacy/digital-tools' },
+            { text: 'Information Literacy', link: '/life-skills/digital-literacy/information-literacy' },
+            { text: 'Social Media', link: '/life-skills/digital-literacy/social-media' },
+            { text: 'Digital Citizenship', link: '/life-skills/digital-literacy/digital-citizenship' }
           ]
         }
       ],
