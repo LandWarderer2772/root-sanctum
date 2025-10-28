@@ -23,5 +23,8 @@
     "learning",
     "education",
     "reference"
-  ]
+  ],
+  "dependencies": {
+    "lucide-vue-next": "^0.548.0"
+  }
 }

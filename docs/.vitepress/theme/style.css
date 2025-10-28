@@ -19,6 +19,12 @@ html {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.dark {
+  background: radial-gradient(ellipse at top, rgba(100, 108, 255, 0.05) 0%, transparent 50%),
+              radial-gradient(ellipse at bottom, rgba(139, 127, 255, 0.03) 0%, transparent 50%);
+  background-attachment: fixed;
+}
+
 /* ========== Brand Colors ========== */
 :root {
   /* Primary brand colors */
@@ -50,33 +56,35 @@ html {
 
 /* ========== Dark Theme ========== */
 .dark {
-  --vp-c-bg: #0f1419;
-  --vp-c-bg-alt: #161b22;
-  --vp-c-bg-soft: #1c2128;
-  --vp-c-bg-mute: #21262d;
-  --vp-c-border: #30363d;
-  --vp-c-divider: #30363d;
-  --vp-c-gutter: #30363d;
+  --vp-c-bg: #0a0b0f;
+  --vp-c-bg-alt: #0f1116;
+  --vp-c-bg-soft: #13151c;
+  --vp-c-bg-mute: #181a22;
+  --vp-c-border: #1f2230;
+  --vp-c-divider: #1f2230;
+  --vp-c-gutter: #1f2230;
   
-  --vp-c-text-1: #e6edf3;
-  --vp-c-text-2: #c9d1d9;
-  --vp-c-text-3: #8b949e;
+  --vp-c-text-1: #e8e9ff;
+  --vp-c-text-2: #b4b7d6;
+  --vp-c-text-3: #7a7d9e;
   
-  /* Enhanced shadows for dark mode */
-  --vp-shadow-1: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
-  --vp-shadow-2: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
-  --vp-shadow-3: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
+  /* Enhanced shadows with subtle glow */
+  --vp-shadow-1: 0 1px 2px 0 rgba(0, 0, 0, 0.4), 0 0 8px rgba(100, 108, 255, 0.03);
+  --vp-shadow-2: 0 4px 6px -1px rgba(0, 0, 0, 0.5), 0 0 12px rgba(100, 108, 255, 0.05);
+  --vp-shadow-3: 0 10px 15px -3px rgba(0, 0, 0, 0.6), 0 0 20px rgba(100, 108, 255, 0.08);
 }
 
 /* ========== Layout Enhancements ========== */
 .VPNav {
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(12px) saturate(180%);
   background-color: rgba(255, 255, 255, 0.85);
   border-bottom: 1px solid var(--vp-c-divider);
 }
 
 .dark .VPNav {
-  background-color: rgba(15, 20, 25, 0.85);
+  background: linear-gradient(180deg, rgba(10, 11, 15, 0.95) 0%, rgba(10, 11, 15, 0.85) 100%);
+  border-bottom: 1px solid rgba(100, 108, 255, 0.15);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5), 0 0 40px rgba(100, 108, 255, 0.05);
 }
 
 .VPSidebar {
@@ -158,13 +166,23 @@ html {
   color: var(--vp-c-brand);
   text-decoration: none;
   font-weight: 500;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
   border-bottom: 1px solid transparent;
 }
 
 .vp-doc a:hover {
   color: var(--vp-c-brand-dark);
   border-bottom-color: var(--vp-c-brand);
+}
+
+.dark .vp-doc a {
+  color: #8b7fff;
+}
+
+.dark .vp-doc a:hover {
+  color: #a78bff;
+  text-shadow: 0 0 8px rgba(139, 127, 255, 0.5);
+  border-bottom-color: #8b7fff;
 }
 
 /* ========== Code Styling ========== */
@@ -202,18 +220,31 @@ html {
   box-shadow: var(--vp-shadow-2);
 }
 
+.dark .vp-doc [class*='language-'] {
+  background: linear-gradient(135deg, rgba(19, 21, 28, 0.95) 0%, rgba(15, 17, 22, 0.98) 100%);
+  border: 1px solid rgba(100, 108, 255, 0.1);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5), 0 0 30px rgba(100, 108, 255, 0.08);
+}
+
 /* ========== Home Page ========== */
 .VPHome {
   padding-bottom: 48px;
 }
 
 .VPHero .name {
-  background: linear-gradient(120deg, #646cff 0%, #535bf2 100%);
+  background: linear-gradient(135deg, #646cff 0%, #8b7fff 40%, #a78bff 70%, #c4a3ff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
   font-weight: 800;
   letter-spacing: -0.02em;
+  filter: drop-shadow(0 0 20px rgba(100, 108, 255, 0.3));
+  animation: dreamyPulse 4s ease-in-out infinite;
+}
+
+@keyframes dreamyPulse {
+  0%, 100% { filter: drop-shadow(0 0 20px rgba(100, 108, 255, 0.3)); }
+  50% { filter: drop-shadow(0 0 30px rgba(139, 127, 255, 0.5)); }
 }
 
 .VPHero .text {
@@ -237,15 +268,43 @@ html {
   border: 1px solid var(--vp-c-border);
   border-radius: 12px;
   padding: 28px;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   background-color: var(--vp-c-bg-alt);
   height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.dark .VPFeature {
+  background: linear-gradient(135deg, rgba(19, 21, 28, 0.8) 0%, rgba(15, 17, 22, 0.9) 100%);
+  border: 1px solid rgba(100, 108, 255, 0.15);
+}
+
+.dark .VPFeature::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(circle at top right, rgba(100, 108, 255, 0.08), transparent 60%);
+  opacity: 0;
+  transition: opacity 0.4s ease;
 }
 
 .VPFeature:hover {
-  transform: translateY(-4px);
+  transform: translateY(-6px);
   box-shadow: var(--vp-shadow-3);
   border-color: var(--vp-c-brand);
+}
+
+.dark .VPFeature:hover {
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.6), 0 0 40px rgba(100, 108, 255, 0.15);
+  border-color: rgba(100, 108, 255, 0.5);
+}
+
+.dark .VPFeature:hover::before {
+  opacity: 1;
 }
 
 .VPFeature .icon {
@@ -276,6 +335,11 @@ html {
 .VPSidebarItem.is-active > .item .link {
   color: var(--vp-c-brand);
   font-weight: 600;
+}
+
+.dark .VPSidebarItem.is-active > .item .link {
+  text-shadow: 0 0 12px rgba(100, 108, 255, 0.4);
+  color: #8b7fff;
 }
 
 /* ========== Custom Containers (Callouts) ========== */
