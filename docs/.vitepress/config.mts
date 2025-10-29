@@ -2,13 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  vue: {
-    template: {
-      compilerOptions: {
-        isCustomElement: (tag) => tag.startsWith('custom-')
-      }
-    }
-  },
   title: "Root Sanctum",
   description: "A comprehensive knowledge base - Your sanctuary for learning across Technology, Science, Humanities, Life Skills, and more",
   
@@ -149,9 +142,7 @@ export default defineConfig({
     footer: {
       message: 'Built to share knowledge <3',
       copyright: 'Copyright © 2025 Root Sanctum'
-    },
-
-    lastUpdatedText: 'Last updated'
+    }
   },
 
   head: [

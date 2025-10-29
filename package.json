@@ -1,7 +1,6 @@
 {
   "name": "root-sanctum",
   "version": "1.0.0",
-  "type": "module",
   "description": "A comprehensive knowledge base - Your sanctuary for learning",
   "author": "LandWarderer2772",
   "license": "MIT",
@@ -15,12 +14,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "@types/node": "^24.9.2",
-    "@vitejs/plugin-vue": "^6.0.1",
-    "typescript": "^5.9.3",
-    "vite": "^7.1.12",
-    "vitepress": "2.0.0-alpha.12",
-    "vue": "^3.5.22"
+    "vitepress": "2.0.0-alpha.12"
   },
   "keywords": [
     "knowledge-base",
