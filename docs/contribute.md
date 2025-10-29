@@ -4,21 +4,11 @@ Thank you for your interest in contributing to Root Sanctum! This knowledge base
 
 ---
 
-## Why Contribute?
-
-- **Share Your Knowledge** - Help others learn from your expertise
-- **Improve Content** - Fix errors, clarify explanations, add examples
-- **Expand Coverage** - Add new topics and sections
-- **Join a Community** - Connect with other learners and contributors
-- **Make an Impact** - Your contributions help thousands of learners
-
----
-
 ## How to Contribute
 
 ### 1. **Report Issues**
 
-Found a typo, broken link, or error?
+Found a mistake?
 
 - Visit our [GitHub Issues](https://github.com/LandWarderer2772/root-sanctum/issues)
 - Create a new issue describing what you found
