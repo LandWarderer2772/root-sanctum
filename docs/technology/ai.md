@@ -626,7 +626,7 @@ Choose PyTorch for research and prototyping, TensorFlow for production deploymen
 
 #### Hugging Face
 
-**Definition**: A company specializing in NLP, known for its Transformers library which provides pre-trained models for various languages tasks.
+**Definition**: A company specializing in NLP, known for its Transformers library which provides pre-trained models for various language tasks.
 
 **Key Features**:
 - State-of-the-art pre-trained models
@@ -664,4 +664,3 @@ Always backup trained models and maintain reproducible training pipelines.
 
 ---
 
-*contribute more data on the github or make corrections if you feel whats written here is wrong*
