@@ -1,18 +1,15 @@
-// https://vitepress.dev/guide/custom-theme
 import { h } from 'vue'
-import DefaultTheme from 'vitepress/theme'
 import type { Theme } from 'vitepress'
+import DefaultTheme from 'vitepress/theme'
+import DocFooter from '../components/DocFooter.vue'
 import './style.css'
 
 export default {
   extends: DefaultTheme,
-  Layout: () => {
+  Layout() {
     return h(DefaultTheme.Layout, null, {
-      // https://vitepress.dev/guide/extending-default-theme#layout-slots
+      'doc-footer-before': () => h(DocFooter)
     })
-  },
-  enhanceApp({ app, router, siteData }) {
-    // ...
   }
 } satisfies Theme
 
