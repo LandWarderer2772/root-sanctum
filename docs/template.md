@@ -121,7 +121,7 @@ Warn about common pitfalls or mistakes.
 - "Book/Publication Title" by Author Name - Brief description
 
 ### Related Topics
-- [Link to related section](#) - How it connects
+- [Link to related section](https://example.com) - How it connects
 
 ---
 
@@ -145,4 +145,4 @@ Warn about common pitfalls or mistakes.
 
 ---
 
-*Last updated: [Date] | [Contribute to this page](link)*
+*Last updated: [Date] | [Contribute to this page](https://example.com)*
