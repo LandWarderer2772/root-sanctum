@@ -138,4 +138,4 @@ Warn about common pitfalls or mistakes.
 
 ---
 
-*Last updated: [Date] | Contribute to this page on [GitHub](link)*
+*Last updated: [Date] | Contribute to this page on link)*
