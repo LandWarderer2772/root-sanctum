@@ -189,7 +189,7 @@ pnpm docs:preview
 
 - [VitePress Docs](https://vitepress.dev/)
 - [Markdown Guide](https://www.markdownguide.org/)
-- [CONTRIBUTING.md](../CONTRIBUTING.md) - Detailed contribution guide
+- [CONTRIBUTING.md](https://github.com/LandWarderer2772/root-sanctum/blob/main/CONTRIBUTING.md) - Detailed contribution guide
 
 ## Tips
 
