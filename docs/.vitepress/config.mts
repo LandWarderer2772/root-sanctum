@@ -29,7 +29,8 @@ export default defineConfig({
           { text: 'Physics', link: '/science/physics' },
           { text: 'Biology', link: '/science/biology' },
           { text: 'Chemistry', link: '/science/chemistry' },
-          { text: 'Space & Astronomy', link: '/science/space' }
+          { text: 'Space & Astronomy', link: '/science/space' },
+          { text: 'Neurology', link: '/science/neurology' }
         ]
       },
       { 
@@ -87,7 +88,8 @@ export default defineConfig({
             { text: 'Physics', link: '/science/physics' },
             { text: 'Biology', link: '/science/biology' },
             { text: 'Chemistry', link: '/science/chemistry' },
-            { text: 'Space & Astronomy', link: '/science/space' }
+            { text: 'Space & Astronomy', link: '/science/space' },
+            { text: 'Neurology', link: '/science/neurology' }
           ]
         }
       ],
