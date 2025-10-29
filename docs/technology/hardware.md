@@ -138,6 +138,3 @@ Master the skills needed to maintain, troubleshoot, and upgrade computer hardwar
 #### Compatibility Considerations
 *Add content about checking compatibility, power requirements, and physical space*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

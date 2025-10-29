@@ -300,6 +300,3 @@ Build mental toughness and the ability to bounce back from challenges.
 #### Professional Support
 *Add content about therapy, counseling, and mental health resources*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

@@ -257,6 +257,3 @@ Explore philosophical movements from the Renaissance to contemporary times.
 #### Political Philosophy
 *Add content about justice, rights, and contemporary social issues*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

@@ -228,6 +228,3 @@ Create and maintain positive habits for long-term success.
 #### Reducing Friction
 *Add content about making bad habits difficult, increasing barriers, and deterrents*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

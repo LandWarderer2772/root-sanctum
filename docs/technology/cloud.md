@@ -173,6 +173,3 @@ Implement security best practices and ensure compliance in cloud environments.
 #### Security Monitoring
 *Add content about logging, auditing, and threat detection*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

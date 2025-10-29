@@ -191,6 +191,3 @@ Learn about humanity's ventures into space and the future of space travel.
 #### Space Resources
 *Add content about asteroid mining, lunar resources, and space economy*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

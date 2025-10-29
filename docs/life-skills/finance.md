@@ -266,6 +266,3 @@ Understand taxes and strategies for minimizing tax liability.
 #### Working with Tax Professionals
 *Add content about CPAs, tax advisors, and when to seek professional help*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

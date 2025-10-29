@@ -224,7 +224,3 @@ Learn about disease prevention and maintaining long-term health.
 
 #### Cancer Prevention
 *Add content about cancer risk factors, screening, and prevention strategies*
-
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

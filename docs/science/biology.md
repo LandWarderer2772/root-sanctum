@@ -186,6 +186,3 @@ Explore the structure and function of the human body systems.
 #### Endocrine System
 *Add content about hormones, glands, and metabolic regulation*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

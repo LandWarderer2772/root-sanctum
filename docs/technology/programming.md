@@ -1,6 +1,6 @@
 # Programming
 
-Welcome to the Programming section of Root Sanctum. This area covers fundamental and advanced programming concepts, languages, and best practices.
+This is where find everything about programming.(Almost everything)(Atleast when its done)
 
 ## What You'll Find Here
 
@@ -54,7 +54,8 @@ This snippet prints a simple greeting message. It demonstrates basic Python synt
 Python's emphasis on readability, simplicity, and powerful libraries makes it a top choice for beginners and professionals across fields from automation to artificial intelligence.
 
 Official documentation and tutorials: https://www.python.org/doc/<br/>
-Beginner-friendly tutorials: https://www.w3schools.com/python/
+Beginner-friendly tutorials: https://www.w3schools.com/python/<br/>
+Other ways to learn are from youtube tutorials [Bro Code](https://www.youtube.com/@BroCodez) [freecodecamp](https://www.youtube.com/@freecodecamp) (i learnt it like this)
 
 #### JavaScript/TypeScript
 
@@ -98,7 +99,8 @@ Both snippets define a simple `greet` function that takes a `name` and returns a
 Using either language enables fast web development, with TypeScript favored in larger codebases for maintainability and error prevention.
 
 JavaScript guide: https://developer.mozilla.org/en-US/docs/Web/JavaScript<br/>
-TypeScript official docs: https://www.typescriptlang.org/docs/
+TypeScript official docs: https://www.typescriptlang.org/docs/<br/>
+[Bro Code](https://www.youtube.com/@BroCodez) has a lot of videos on Js and different frameworks love this Bro.
 
 #### Java
 
@@ -135,7 +137,8 @@ public class HelloWorld {
 This program defines a public class `HelloWorld` which contains the `main` method, the entry point for execution. The `main` method uses `System.out.println()` to print the text `"Hello, World!"` to the console. Key parts include the class declaration, the static `main` method so the JVM can run it without needing an object, and the `String[] args` parameter to accept command-line arguments. This simple program illustrates the basic syntax of Java and is commonly the first program written when learning Java.
 
 Official Oracle Java tutorials: https://docs.oracle.com/javase/tutorial/<br/>
-Beginner tutorials: https://www.programiz.com/java-programming
+Beginner tutorials: https://www.programiz.com/java-programming<br/>
+search up on youtube for a lot of good tutorials
 
 #### C/C++
 #### C Programming Language
@@ -218,6 +221,8 @@ These examples illustrate the fundamental "Hello, World!" programs, highlighting
 
 C++ documentation and tutorials: https://isocpp.org/get-started
 
+Dont get books unless you go to school or really wanna know a lot about the language. Books should only be used as reference and not to learn, use them in combination with a course you're following.
+
 #### Go
 
 Go (also called Golang) is an open-source, statically typed, compiled programming language developed by Google known for its simplicity, efficiency, and built-in support for concurrent programming.
@@ -260,6 +265,11 @@ func main() {
 This Go program defines a `greet` function that formats a greeting string using `fmt.Sprintf`. The `main` function calls `greet` with the name "Gopher" and prints the message using `fmt.Println`. The concise syntax, explicit types, and use of standard library functions demonstrate Go's clarity and power. The `package main` and `func main()` define the executable program entry point.
 
 Go's design makes it easy to write clean, efficient, and concurrent programs, particularly suited for modern cloud computing and networking tasks.
+
+Official Go language site: https://go.dev/doc/<br/>
+Beginner tutorials: https://www.w3schools.com/go/<br/>
+
+never tried go :(
 
 #### Rust
 
@@ -304,7 +314,9 @@ Rust's combination of memory safety, performance, and modern tooling makes it id
 
 Official Rust site and book: https://doc.rust-lang.org/book/<br/>
 Rust community site: https://www.rust-lang.org/learn<br/>
-🦀 Small exercises to get you used to reading and writing Rust code! https://github.com/rust-lang/rustlings/
+🦀 Small exercises to get you used to reading and writing Rust code! https://github.com/rust-lang/rustlings/<br/>
+
+idk bruh i tried to learn this stuff but like i got bored.
 
 ---
 
@@ -395,4 +407,3 @@ Guidelines for writing clean, maintainable, and efficient code.
 
 ---
 
-*This is your programming knowledge base. Add detailed content to each section as needed.*

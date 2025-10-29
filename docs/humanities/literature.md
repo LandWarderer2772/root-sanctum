@@ -234,6 +234,3 @@ Master the craft of creative writing and storytelling.
 #### Literary Fiction
 *Add content about character focus, theme, and literary techniques*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

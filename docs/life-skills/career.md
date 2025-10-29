@@ -294,6 +294,3 @@ Continuously develop your skills and advance your career.
 #### Workplace Politics
 *Add content about navigating dynamics, building alliances, and awareness*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

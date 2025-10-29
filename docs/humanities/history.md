@@ -237,6 +237,3 @@ Explore recent history from the Cold War to the present day.
 #### Contemporary Challenges
 *Add content about pandemics, political polarization, and current events*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

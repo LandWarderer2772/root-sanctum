@@ -179,6 +179,3 @@ Explore the chemical processes and substances in living organisms.
 #### Molecular Biology
 *Add content about DNA replication, transcription, translation, and gene expression*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

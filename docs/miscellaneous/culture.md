@@ -214,6 +214,3 @@ Explore world cuisines, food cultures, and culinary traditions.
 #### Food and Identity
 *Add content about food as culture, heritage, and personal/national identity*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

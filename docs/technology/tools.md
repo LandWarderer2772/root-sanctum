@@ -160,7 +160,3 @@ Discover tools that enhance developer productivity and team collaboration.
 
 #### README and Markdown
 *Add content about writing effective documentation and README files*
-
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

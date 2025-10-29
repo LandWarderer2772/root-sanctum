@@ -317,6 +317,3 @@ Become a responsible and ethical participant in the digital world.
 #### Community Building
 *Add content about online communities, positive spaces, and connection*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

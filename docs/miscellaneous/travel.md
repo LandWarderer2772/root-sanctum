@@ -222,6 +222,3 @@ Stay safe and healthy while exploring the world.
 #### Responsible Tourism
 *Add content about sustainable travel, minimizing impact, and ethics*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

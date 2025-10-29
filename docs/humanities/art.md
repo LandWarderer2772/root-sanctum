@@ -225,7 +225,3 @@ Understand major artistic movements and their cultural impact.
 
 #### Non-Western Art Traditions
 *Add content about African, Asian, Latin American, and global perspectives*
-
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

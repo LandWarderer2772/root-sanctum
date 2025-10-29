@@ -257,6 +257,3 @@ Understand and use non-verbal communication effectively.
 #### Avoiding Misunderstandings
 *Add content about cultural sensitivity, awareness, and adaptation*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

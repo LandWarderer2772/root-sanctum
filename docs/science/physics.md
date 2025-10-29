@@ -177,6 +177,3 @@ Explore Einstein's revolutionary theories of special and general relativity.
 #### Dark Matter and Dark Energy
 *Add content about the universe's mysterious components and cosmic acceleration*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

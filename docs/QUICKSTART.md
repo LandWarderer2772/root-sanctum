@@ -2,7 +2,7 @@
 
 Welcome to Root Sanctum! This guide will help you get started with building your knowledge base.
 
-## 🎯 What You Have
+## What You Have
 
 Root Sanctum is a fully structured VitePress knowledge base with:
 
@@ -13,7 +13,7 @@ Root Sanctum is a fully structured VitePress knowledge base with:
 - **Light/Dark Theme** with custom styling
 - **Responsive Design** that works on all devices
 
-## 🚀 Development
+## Development
 
 ### Start the Dev Server
 
@@ -59,7 +59,7 @@ hello_world()
 - [Python Tutorial](https://docs.python.org/3/tutorial/)
 ```
 
-## 📁 Project Structure Overview
+## Project Structure Overview
 
 ```
 docs/
@@ -78,7 +78,7 @@ docs/
 └── miscellaneous/             # DIY, Travel, Culture, Fun Facts
 ```
 
-## 🎨 Customization
+## Customization
 
 ### Change Site Title/Description
 
@@ -105,7 +105,7 @@ Edit `docs/.vitepress/theme/style.css`:
 }
 ```
 
-## 📝 Content Tips
+## Content Tips
 
 ### Use Markdown Features
 
@@ -142,7 +142,7 @@ console.log(greeting);
 ```
 ````
 
-## 🏗️ Building for Production
+## Building for Production
 
 ### Build the Site
 
@@ -158,7 +158,7 @@ Output will be in `docs/.vitepress/dist/`
 pnpm docs:preview
 ```
 
-## 🚢 Deployment
+## Deployment
 
 ### Popular Options
 
@@ -178,20 +178,20 @@ pnpm docs:preview
 4. **Cloudflare Pages**
    - Similar to Netlify setup
 
-## 📚 Next Steps
+## Next Steps
 
 1. **Add Content**: Start filling in your knowledge base
 2. **Customize Theme**: Adjust colors and styles to match your brand
 3. **Organize**: Adjust navigation and sidebars as needed
 4. **Deploy**: Choose a hosting platform and go live
 
-## 🔗 Helpful Resources
+## Helpful Resources
 
 - [VitePress Docs](https://vitepress.dev/)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [CONTRIBUTING.md](../CONTRIBUTING.md) - Detailed contribution guide
 
-## 💡 Tips
+## Tips
 
 - Use the search feature to find content quickly
 - Test on mobile devices for responsive design
@@ -201,4 +201,4 @@ pnpm docs:preview
 
 ---
 
-Happy writing! 🎉 Your knowledge sanctuary awaits. 🌳
+Happy writing! Your knowledge sanctuary awaits.

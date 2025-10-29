@@ -221,6 +221,3 @@ Random interesting facts and trivia from all areas of knowledge.
 #### "Did You Know?"
 *Add content about surprising facts that challenge common assumptions*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*

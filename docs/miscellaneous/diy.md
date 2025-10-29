@@ -216,6 +216,3 @@ Learn electronics basics and build your own electronic projects.
 #### Audio Projects
 *Add content about amplifiers, speakers, and audio electronics*
 
----
-
-*Note: This is a living document. Content will be expanded and updated regularly.*
