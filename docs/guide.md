@@ -33,24 +33,24 @@ Root Sanctum is divided into five primary sections:
 
 ### New to Programming?
 
-1. Start with [Programming Basics](/technology/programming#languages)
-2. Move to [Data Structures](/technology/programming#data-structures)
-3. Practice with [Algorithms](/technology/programming#algorithms)
-4. Learn [Best Practices](/technology/programming#best-practices)
+1. Start with [Programming Basics](/technology/programming/languages)
+2. Move to [Data Structures](/technology/programming/data-structures)
+3. Practice with [Algorithms](/technology/programming/algorithms)
+4. Learn [Best Practices](/technology/programming/best-practices)
 
 ### Building a Website?
 
-1. Begin with [HTML & CSS Fundamentals](/technology/web-dev)
-2. Learn [JavaScript](/technology/web-dev)
-3. Explore [Frontend Frameworks](/technology/web-dev)
-4. Understand [Backend Development](/technology/web-dev)
+1. Begin with [HTML & CSS Fundamentals](/technology/web-dev/html-css)
+2. Learn [JavaScript](/technology/web-dev/javascript)
+3. Explore [Frontend Frameworks](/technology/web-dev/frontend-frameworks)
+4. Understand [Backend Development](/technology/web-dev/backend)
 
 ### Improving Your Life Skills?
 
-1. Start with [Productivity Techniques](/life-skills/productivity)
-2. Develop [Communication Skills](/life-skills/communication)
-3. Master [Personal Finance](/life-skills/finance)
-4. Focus on [Personal Development](/life-skills/personal-development)
+1. Start with [Productivity Techniques](/life-skills/productivity/)
+2. Develop [Communication Skills](/life-skills/communication/)
+3. Master [Personal Finance](/life-skills/finance/)
+4. Focus on [Personal Development](/life-skills/personal-development/)
 
 ---
 
@@ -116,10 +116,10 @@ If you're having trouble finding something or have questions about how to use th
 
 Ready to dive in? Pick a category that interests you and start exploring:
 
-- [Technology](/technology/programming)
-- [Science](/science/physics)
-- [Humanities](/humanities/history)
-- [Life Skills](/life-skills/health)
-- [Miscellaneous](/miscellaneous/diy)
+- [Technology](/technology/programming/)
+- [Science](/science/physics/)
+- [Humanities](/humanities/history/)
+- [Life Skills](/life-skills/health/)
+- [Miscellaneous](/miscellaneous/diy/)
 
 Happy learning!
