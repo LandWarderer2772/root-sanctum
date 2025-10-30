@@ -10,7 +10,7 @@ Root Sanctum is a well-organized knowledge base framework covering five main cat
 - **Science** - Physics, Biology, Chemistry, Space & Astronomy
 - **Humanities** - History, Philosophy, Art, Literature
 - **Life Skills** - Health, Productivity, Communication, Finance
-- ** Miscellaneous** - DIY, Travel, Culture, Fun Facts
+- **Miscellaneous** - DIY, Travel, Culture, Fun Facts
 
 ## Getting Started
 
