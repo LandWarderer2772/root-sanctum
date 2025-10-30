@@ -21,27 +21,27 @@ features:
       src: /icons/monitor.svg
     title: Technology
     details: Programming, Web Development, AI, Data Science, Cybersecurity, Cloud, Hardware & Tools
-    link: /technology/programming
+    link: /technology/
   - icon:
       src: /icons/microscope.svg
     title: Science
     details: Physics, Biology, Chemistry, Space & Astronomy
-    link: /science/physics
+    link: /science/
   - icon:
       src: /icons/book-open.svg
     title: Humanities
     details: History, Philosophy, Art, Literature
-    link: /humanities/history
+    link: /humanities/
   - icon:
       src: /icons/target.svg
     title: Life Skills
     details: Health, Productivity, Communication, Finance, Career, Personal Development & Digital Literacy
-    link: /life-skills/health
+    link: /life-skills/
   - icon:
       src: /icons/globe.svg
     title: Miscellaneous
     details: DIY & Crafts, Travel, Culture, Fun Facts
-    link: /miscellaneous/diy
+    link: /miscellaneous/
   - icon:
       src: /icons/search.svg
     title: Searchable
