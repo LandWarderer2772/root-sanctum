@@ -102,7 +102,17 @@ export default defineConfig({
             { text: 'Deep Learning', link: '/technology/ai/deep-learning' },
             { text: 'Machine Learning', link: '/technology/ai/machine-learning' },
             { text: 'Nlp', link: '/technology/ai/nlp' },
-            { text: 'Tools', link: '/technology/ai/tools' }
+            { text: 'Tools', link: '/technology/ai/tools' },
+            { text: 'Running AI Models Locally', 
+              collapsed: true,
+              items: [
+              { text: 'How to run AI models locally', link: '/technology/ai/local-models' },
+              { text: 'llama.cpp', link: '/technology/ai/local-models/llamacpp-guide' },
+              { text: 'GPT4All', link: '/technology/ai/local-models/gpt4all-guide' },
+              { text: 'Lmstudio', link: '/technology/ai/local-models/lmstudio-guide' },
+              { text: 'janai', link: '/technology/ai/local-models/janai-guide' },
+              { text: 'ollama', link: '/technology/ai/local-models/ollama-guide' }
+            ]}
           ]
         }
       ],
