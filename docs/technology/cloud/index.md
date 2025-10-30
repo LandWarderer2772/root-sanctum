@@ -1,3 +1,4 @@
+# Cloud Computing
 
 Welcome to the Cloud Computing section of Root Sanctum. This area covers cloud platforms, services, architecture, and modern cloud-native technologies.
 

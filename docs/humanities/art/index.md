@@ -1,3 +1,4 @@
+# Art
 
 Welcome to the Art section of Root Sanctum. This area explores visual arts, artistic techniques, and the history of artistic expression.
 

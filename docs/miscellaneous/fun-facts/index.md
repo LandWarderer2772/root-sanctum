@@ -1,3 +1,4 @@
+# Fun Facts
 
 Welcome to the Fun Facts section of Root Sanctum. This area features fascinating facts, trivia, and interesting tidbits from various topics.
 

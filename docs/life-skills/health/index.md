@@ -1,3 +1,4 @@
+# Health & Wellness
 
 Welcome to the Health & Wellness section of Root Sanctum. This area provides comprehensive guides for physical and mental health, nutrition, fitness, and overall wellbeing.
 

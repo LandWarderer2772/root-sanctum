@@ -1,3 +1,4 @@
+# DIY & Crafts
 
 Welcome to the DIY & Crafts section of Root Sanctum. This area covers practical DIY skills, creative crafts, and hands-on projects.
 

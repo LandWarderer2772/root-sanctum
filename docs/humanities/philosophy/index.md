@@ -1,3 +1,4 @@
+# Philosophy
 
 Welcome to the Philosophy section of Root Sanctum. This area explores fundamental questions about existence, knowledge, values, reason, and the nature of reality.
 

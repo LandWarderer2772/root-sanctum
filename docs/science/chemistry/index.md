@@ -1,3 +1,4 @@
+# Chemistry
 
 Welcome to the Chemistry section of Root Sanctum. This area explores the composition, structure, properties, and transformations of matter.
 

@@ -1,3 +1,4 @@
+# Space & Astronomy
 
 Welcome to the Space & Astronomy section of Root Sanctum. This area explores the universe beyond Earth, from our solar system to the cosmos.
 

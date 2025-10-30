@@ -1,3 +1,4 @@
+# Culture
 
 Welcome to the Culture section of Root Sanctum. This area explores world cultures, languages, traditions, and the rich diversity of human societies.
 

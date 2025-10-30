@@ -1,3 +1,4 @@
+# Digital Literacy
 
 Welcome to the Digital Literacy section of Root Sanctum. This area helps you navigate the digital world effectively and safely.
 

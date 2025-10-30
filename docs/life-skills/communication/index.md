@@ -1,3 +1,4 @@
+# Communication
 
 Welcome to the Communication section of Root Sanctum. This area helps you improve communication skills across various contexts, from public speaking to written communication.
 

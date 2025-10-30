@@ -1,3 +1,4 @@
+# Tools & Software
 
 Welcome to the Tools & Software section of Root Sanctum. This area covers essential development tools, version control, IDEs, DevOps platforms, and productivity software.
 

@@ -1,3 +1,4 @@
+# Productivity
 
 Welcome to the Productivity section of Root Sanctum. This area covers time management, goal setting, focus techniques, and strategies for maximizing your effectiveness.
 

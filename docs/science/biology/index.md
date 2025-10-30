@@ -1,3 +1,4 @@
+# Biology
 
 Welcome to the Biology section of Root Sanctum. This area explores the science of life and living organisms, from molecular biology to ecosystems.
 

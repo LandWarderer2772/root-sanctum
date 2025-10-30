@@ -1,3 +1,4 @@
+# Personal Development
 
 Welcome to the Personal Development section of Root Sanctum. This area focuses on continuous self-improvement, emotional intelligence, and personal growth.
 

@@ -1,3 +1,4 @@
+# History
 
 Welcome to the History section of Root Sanctum. This area explores human history from ancient civilizations to the present day.
 

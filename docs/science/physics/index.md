@@ -1,3 +1,4 @@
+# Physics
 
 Welcome to the Physics section of Root Sanctum. This area explores the fundamental laws that govern the universe, from classical mechanics to quantum phenomena.
 

@@ -1,3 +1,4 @@
+# Finance
 
 Welcome to the Finance section of Root Sanctum. This area covers personal finance fundamentals, from budgeting to investing and building long-term wealth.
 

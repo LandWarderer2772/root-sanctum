@@ -1,3 +1,4 @@
+# Travel
 
 Welcome to the Travel section of Root Sanctum. This area provides your guide to exploring the world, from planning to execution.
 

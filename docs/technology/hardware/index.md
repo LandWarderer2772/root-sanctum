@@ -1,3 +1,4 @@
+# Hardware
 
 Welcome to the Hardware section of Root Sanctum. This area covers computer components, networking hardware, embedded systems, and maintenance practices.
 

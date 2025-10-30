@@ -1,3 +1,4 @@
+# Career Development
 
 Welcome to the Career Development section of Root Sanctum. This area helps you build and advance your professional career through strategic planning and skill development.
 

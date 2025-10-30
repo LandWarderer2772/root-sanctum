@@ -1,3 +1,4 @@
+# Literature
 
 Welcome to the Literature section of Root Sanctum. This area explores literary works, criticism, analysis, and writing techniques.
 
