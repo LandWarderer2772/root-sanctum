@@ -28,11 +28,11 @@ html {
 /* ========== Brand Colors ========== */
 :root {
   /* Primary brand colors */
-  --vp-c-brand: #646cff;
-  --vp-c-brand-light: #747bff;
-  --vp-c-brand-lighter: #9499ff;
-  --vp-c-brand-dark: #535bf2;
-  --vp-c-brand-darker: #454ce1;
+  --vp-c-brand: #9a64ff;
+  --vp-c-brand-light: #a574ff;
+  --vp-c-brand-lighter: #c294ff;
+  --vp-c-brand-dark: #aa53f2;
+  --vp-c-brand-darker: #9b45e1;
   
   /* Enhanced light theme */
   --vp-c-bg: #ffffff;
