@@ -66,6 +66,19 @@ export default defineConfig({
     ],
 
     sidebar: {
+      '/technology/ai/': [
+        {
+          text: 'AI & Machine Learning',
+          items: [
+            { text: 'Overview', link: '/technology/ai/' },
+            { text: 'Machine Learning Basics', link: '/technology/ai/machine-learning' },
+            { text: 'Deep Learning', link: '/technology/ai/deep-learning' },
+            { text: 'Natural Language Processing', link: '/technology/ai/nlp' },
+            { text: 'Computer Vision', link: '/technology/ai/computer-vision' },
+            { text: 'AI Tools & Frameworks', link: '/technology/ai/tools' }
+          ]
+        }
+      ],
       '/technology/': [
         {
           text: 'Technology',
