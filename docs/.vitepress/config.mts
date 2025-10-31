@@ -522,7 +522,7 @@ export default defineConfig({
 
   appearance: 'dark',
   
-  lastUpdated: true
+  lastUpdated: true,
 
   ignoreDeadLinks: true
 })
