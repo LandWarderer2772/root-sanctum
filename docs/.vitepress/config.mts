@@ -68,6 +68,10 @@ export default defineConfig({
     sidebar: {
       '/technology/programming/': [
         {
+          text: '← Back to Technology',
+          link: '/technology/'
+        },
+        {
           text: 'Programming',
           items: [
             { text: 'Overview', link: '/technology/programming/' },
@@ -75,11 +79,18 @@ export default defineConfig({
             { text: 'Best Practices', link: '/technology/programming/best-practices' },
             { text: 'Data Structures', link: '/technology/programming/data-structures' },
             { text: 'Design Patterns', link: '/technology/programming/design-patterns' },
-            { text: 'Languages', link: '/technology/programming/languages' }
+            { text: 'Languages', 
+              link: '/technology/programming/languages',
+              collapsed: false,
+            } 
           ]
         }
       ],
       '/technology/web-dev/': [
+        {
+          text: '← Back to Technology',
+          link: '/technology/'
+        },
         {
           text: 'Web Development',
           items: [
@@ -95,6 +106,10 @@ export default defineConfig({
       ],
       '/technology/ai/': [
         {
+          text: '← Back to Technology',
+          link: '/technology/'
+        },
+        {
           text: 'AI & Machine Learning',
           items: [
             { text: 'Overview', link: '/technology/ai/' },
@@ -104,19 +119,23 @@ export default defineConfig({
             { text: 'Nlp', link: '/technology/ai/nlp' },
             { text: 'Tools', link: '/technology/ai/tools' },
             { text: 'Running AI Models Locally', 
-              collapsed: true,
+              collapsed: false,
+              link: '/technology/ai/local-models',
               items: [
-              { text: 'How to run AI models locally', link: '/technology/ai/local-models' },
               { text: 'llama.cpp', link: '/technology/ai/local-models/llamacpp-guide' },
+              { text: 'ollama', link: '/technology/ai/local-models/ollama-guide' },
               { text: 'GPT4All', link: '/technology/ai/local-models/gpt4all-guide' },
               { text: 'Lmstudio', link: '/technology/ai/local-models/lmstudio-guide' },
               { text: 'janai', link: '/technology/ai/local-models/janai-guide' },
-              { text: 'ollama', link: '/technology/ai/local-models/ollama-guide' }
             ]}
           ]
         }
       ],
       '/technology/data-science/': [
+        {
+          text: '← Back to Technology',
+          link: '/technology/'
+        },
         {
           text: 'Data Science',
           items: [
@@ -131,6 +150,10 @@ export default defineConfig({
         }
       ],
       '/technology/cybersecurity/': [
+        {
+          text: '← Back to Technology',
+          link: '/technology/'
+        },
         {
           text: 'Cybersecurity',
           items: [
@@ -149,6 +172,10 @@ export default defineConfig({
       ],
       '/technology/cloud/': [
         {
+          text: '← Back to Technology',
+          link: '/technology/'
+        },
+        {
           text: 'Cloud',
           items: [
             { text: 'Overview', link: '/technology/cloud/' },
@@ -163,6 +190,10 @@ export default defineConfig({
       ],
       '/technology/hardware/': [
         {
+          text: '← Back to Technology',
+          link: '/technology/'
+        },
+        {
           text: 'Hardware',
           items: [
             { text: 'Overview', link: '/technology/hardware/' },
@@ -175,6 +206,10 @@ export default defineConfig({
       ],
       '/technology/tools/': [
         {
+          text: '← Back to Technology',
+          link: '/technology/'
+        },
+        {
           text: 'Tools',
           items: [
             { text: 'Overview', link: '/technology/tools/' },
@@ -186,6 +221,10 @@ export default defineConfig({
         }
       ],
       '/science/physics/': [
+        {
+          text: '← Back to Science',
+          link: '/science/'
+        },
         {
           text: 'Physics',
           items: [
@@ -200,6 +239,10 @@ export default defineConfig({
       ],
       '/science/biology/': [
         {
+          text: '← Back to Science',
+          link: '/science/'
+        },
+        {
           text: 'Biology',
           items: [
             { text: 'Overview', link: '/science/biology/' },
@@ -213,6 +256,10 @@ export default defineConfig({
       ],
       '/science/chemistry/': [
         {
+          text: '← Back to Science',
+          link: '/science/'
+        },
+        {
           text: 'Chemistry',
           items: [
             { text: 'Overview', link: '/science/chemistry/' },
@@ -225,6 +272,10 @@ export default defineConfig({
       ],
       '/science/space/': [
         {
+          text: '← Back to Science',
+          link: '/science/'
+        },
+        {
           text: 'Space',
           items: [
             { text: 'Overview', link: '/science/space/' },
@@ -235,7 +286,17 @@ export default defineConfig({
           ]
         }
       ],
+      '/science/neurology/': [
+        {
+          text: '← Back to Science',
+          link: '/science/'
+        },
+      ],
       '/humanities/history/': [
+        {
+          text: '← Back to Humanities',
+          link: '/humanities/'
+        },
         {
           text: 'History',
           items: [
@@ -250,6 +311,10 @@ export default defineConfig({
       ],
       '/humanities/philosophy/': [
         {
+          text: '← Back to Humanities',
+          link: '/humanities/'
+        },
+        {
           text: 'Philosophy',
           items: [
             { text: 'Overview', link: '/humanities/philosophy/' },
@@ -262,6 +327,10 @@ export default defineConfig({
         }
       ],
       '/humanities/art/': [
+        {
+          text: '← Back to Humanities',
+          link: '/humanities/'
+        },
         {
           text: 'Art',
           items: [
@@ -276,6 +345,10 @@ export default defineConfig({
       ],
       '/humanities/literature/': [
         {
+          text: '← Back to Humanities',
+          link: '/humanities/'
+        },
+        {
           text: 'Literature',
           items: [
             { text: 'Overview', link: '/humanities/literature/' },
@@ -288,6 +361,10 @@ export default defineConfig({
         }
       ],
       '/life-skills/health/': [
+        {
+          text: '← Back to Life Skills',
+          link: '/life-skills/'
+        },
         {
           text: 'Health',
           items: [
@@ -302,6 +379,10 @@ export default defineConfig({
       ],
       '/life-skills/productivity/': [
         {
+          text: '← Back to Life Skills',
+          link: '/life-skills/'
+        },
+        {
           text: 'Productivity',
           items: [
             { text: 'Overview', link: '/life-skills/productivity/' },
@@ -314,6 +395,10 @@ export default defineConfig({
         }
       ],
       '/life-skills/communication/': [
+        {
+          text: '← Back to Life Skills',
+          link: '/life-skills/'
+        },
         {
           text: 'Communication',
           items: [
@@ -328,6 +413,10 @@ export default defineConfig({
       ],
       '/life-skills/finance/': [
         {
+          text: '← Back to Life Skills',
+          link: '/life-skills/'
+        },
+        {
           text: 'Finance',
           items: [
             { text: 'Overview', link: '/life-skills/finance/' },
@@ -340,6 +429,10 @@ export default defineConfig({
         }
       ],
       '/life-skills/career/': [
+        {
+          text: '← Back to Life Skills',
+          link: '/life-skills/'
+        },
         {
           text: 'Career',
           items: [
@@ -355,6 +448,10 @@ export default defineConfig({
       ],
       '/life-skills/personal-development/': [
         {
+          text: '← Back to Life Skills',
+          link: '/life-skills/'
+        },
+        {
           text: 'Personal Development',
           items: [
             { text: 'Overview', link: '/life-skills/personal-development/' },
@@ -368,6 +465,10 @@ export default defineConfig({
         }
       ],
       '/life-skills/digital-literacy/': [
+        {
+          text: '← Back to Life Skills',
+          link: '/life-skills/'
+        },
         {
           text: 'Digital Literacy',
           items: [
@@ -383,6 +484,10 @@ export default defineConfig({
       ],
       '/miscellaneous/diy/': [
         {
+          text: '← Back to Miscellaneous',
+          link: '/miscellaneous/'
+        },
+        {
           text: 'DIY & Crafts',
           items: [
             { text: 'Overview', link: '/miscellaneous/diy/' },
@@ -394,6 +499,10 @@ export default defineConfig({
         }
       ],
       '/miscellaneous/travel/': [
+        {
+          text: '← Back to Miscellaneous',
+          link: '/miscellaneous/'
+        },
         {
           text: 'Travel',
           items: [
@@ -407,6 +516,10 @@ export default defineConfig({
       ],
       '/miscellaneous/culture/': [
         {
+          text: '← Back to Miscellaneous',
+          link: '/miscellaneous/'
+        },
+        {
           text: 'Culture',
           items: [
             { text: 'Overview', link: '/miscellaneous/culture/' },
@@ -418,6 +531,10 @@ export default defineConfig({
         }
       ],
       '/miscellaneous/fun-facts/': [
+        {
+          text: '← Back to Miscellaneous',
+          link: '/miscellaneous/'
+        },
         {
           text: 'Fun Facts',
           items: [
@@ -451,7 +568,8 @@ export default defineConfig({
             { text: 'Physics', link: '/science/physics' },
             { text: 'Biology', link: '/science/biology' },
             { text: 'Chemistry', link: '/science/chemistry' },
-            { text: 'Space', link: '/science/space' }
+            { text: 'Space', link: '/science/space' },
+            { text: 'Neurology', link: '/science/neurology' }
           ]
         }
       ],
